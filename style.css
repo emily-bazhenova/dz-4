@@ -1,0 +1,66 @@
+/* font-family: 'Roboto', sans-serif;
+font-family: "Dancing Script", cursive; */
+
+ul {
+  list-style: none;
+  font-size: 20px;
+  text-align: center;
+}
+
+li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.active {
+  color: blue;
+}
+
+.roboto-text {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+}
+
+.roboto-1 {
+  font-weight: 300;
+  color: red;
+}
+
+.roboto-2 {
+  font-weight: 500;
+  color: blue;
+}
+
+.roboto-3 {
+  font-weight: 700;
+  color: green;
+}
+
+.dancing-text {
+  margin-top: 40px;
+}
+
+.dancing-text p {
+  font-family: "Dancing Script", cursive;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.block {
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+  margin-right: 5px;
+}
+
+.block-1 {
+  background-color: blue;
+}
+
+.block-2 {
+  background-color: green;
+}
+
+.block-3 {
+  background-color: orange;
+}
